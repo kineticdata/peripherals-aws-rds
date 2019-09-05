@@ -1,8 +1,8 @@
 ---
 repo-name: peripherals-aws-rds
 categories:
-- Cloud
-- DevOps
-display-name: 
+  - Cloud
+  - DevOps
+display-name: Amazon RDS
 manufacture: Amazon
 product: RDS
